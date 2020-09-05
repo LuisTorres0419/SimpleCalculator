@@ -3,7 +3,7 @@
 'RCET0265
 'Fall 2020
 'Say My Name Again
-'https://github.com/LuisTorres0419/SayMyName.git
+'https://github.com/LuisTorres0419/SimpleCalculator.git
 Option Strict On
 Option Explicit On
 Option Compare Text
