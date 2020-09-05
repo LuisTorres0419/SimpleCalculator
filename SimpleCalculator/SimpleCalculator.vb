@@ -2,7 +2,7 @@
 'Luis Torres
 'RCET0265
 'Fall 2020
-'Say My Name Again
+'Simple Calculator
 'https://github.com/LuisTorres0419/SimpleCalculator.git
 Option Strict On
 Option Explicit On
