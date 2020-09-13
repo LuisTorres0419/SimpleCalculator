@@ -60,8 +60,7 @@ Module SimpleCalculator
                     Console.WriteLine("You entered: " & firstNumber & " * " & seconNumber & " that = " &
                                       firstNumber * seconNumber)
 
-                ElseIf userRespons <> "multiply" Or userRespons <> "*" Or userRespons <> "Add" Or userRespons <>
-                    "+" Then
+                Else ' Else covers anything that didn't evaluate True above - TJR
                     Console.WriteLine("Big wrong try again!")
                 End If
             Loop Until userRespons = "multiply" Or userRespons = "*" Or userRespons = "Add" Or userRespons = "+"
